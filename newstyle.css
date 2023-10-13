@@ -1,0 +1,27 @@
+
+body {
+	font-family: sans-serif;
+	text-align: center;
+}
+#container {
+	margin: 50px auto;
+	width: 300px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	background: black;
+}
+label {
+	color: white;
+}
+p {
+	color: white;
+}
+div {
+	margin: 50px auto;
+	width: 300px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	background: black;
+}
